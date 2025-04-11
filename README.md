@@ -1,4 +1,5 @@
 Employee Performance and Productivity Analysis(Excel)
+
 This project involves analyzing employee performance, productivity, and retention trends using a structured Excel dataset of over 100,000 records. The goal was to uncover insights related to employee satisfaction, turnover, workload, training, and salary distribution.
 
 📁 Dataset Overview
